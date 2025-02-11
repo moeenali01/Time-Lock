@@ -1,4 +1,4 @@
-# 🚀 Vault - ERC-20 Token Staking Contract
+# 🚀 TimeLock: A Secure and Flexible Transaction Scheduling Contract
 
 
 ![Ethereum](https://img.shields.io/badge/Network-Holesky_Testnet-blue?style=flat-square&logo=ethereum)
@@ -25,7 +25,7 @@ The **TimeLock** smart contract is a security-focused tool for scheduling transa
 ## 📡 Deployment Details
 - **Network:** Ethereum (Holesky Testnet)
 - **Chain ID:** `17000` <!-- Add Chain ID if applicable -->
-- **Contract Address:** [`0x59B9BCcAc08083DC61FDe784c833F15fc3AE8A2F`](#) <!-- Add your deployed contract address -->
+- **Contract Address:** [`0x59B9BCcAc08083DC61FDe784c833F15fc3AE8A2F`](https://holesky.etherscan.io/address/0x59B9BCcAc08083DC61FDe784c833F15fc3AE8A2F) <!-- Add your deployed contract address -->
 - **Etherscan Verification:** ✅ Verified
 - **Explorer Link:** [View on Etherscan](https://holesky.etherscan.io/address/0x59B9BCcAc08083DC61FDe784c833F15fc3AE8A2F#code) <!-- Add link to verified contract on Etherscan -->
 
